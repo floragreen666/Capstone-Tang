@@ -1,2 +1,2 @@
-# Capstone-Tianyi-Tang
+# Capstone-Tang
 Audio Transcription Sentimental Analysis
